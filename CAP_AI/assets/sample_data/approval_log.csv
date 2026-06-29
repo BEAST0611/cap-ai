@@ -1,0 +1,4 @@
+txn_id,amount,approved_by
+TXN001,500000,Rajesh Kumar
+TXN002,1200000,Amit Patel
+TXN003,750000,Unknown Person

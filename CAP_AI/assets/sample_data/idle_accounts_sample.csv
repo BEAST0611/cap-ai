@@ -1,0 +1,3 @@
+account_number,balance,last_transaction_date,minimum_balance,sweep_facility
+ACC1001,2500000,2024-06-15,100000,No
+ACC1003,5200000,2023-11-01,200000,No
